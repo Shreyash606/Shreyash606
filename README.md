@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Software Developer. Graduate Student at University of Texas at Arlington</h3>
 
 
-- 📫 Reach out to me **shreyashthakrey606@gmail.com**
+- 📫 Reach out to me - **shreyashthakrey606@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13Gkk2-yT1QDWIzQ69ZeFBDsaaWNtlJET/view?usp=drive_link)
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/13Gkk2-yT1QDWIzQ69ZeFBDsaaWNtlJET/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 
