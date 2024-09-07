@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://skillicons.dev">
+<a href="https://www.linkedin.com/in/shreyashthakare/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
@@ -54,8 +54,10 @@
     <img src="https://skillicons.dev/icons?i=git,gitlab" />
   </a>
 
+<img padding="10px"/>
 
-<div align-items:"center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyash606&show_icons=true&locale=en&layout=compact" alt="shreyash606" style="max-width: 100%; height: auto;" /></p>
-    <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash606&" alt="shreyash606" style="max-width: 100%; height: auto;" /></p>
+<div >
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash606&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="shreyash606" width="500px" height="auto" /></p>
+    <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash606&theme=dark&hide_border=false" alt="shreyash606" width="500px" height="auto" /></p>
+        <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash606&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="shreyash606" width="500px" height="auto" /></p>
   </div>
