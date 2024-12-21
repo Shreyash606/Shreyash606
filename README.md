@@ -4,7 +4,7 @@
 
 - 📫 Reach out to me - **shreyashthakrey606@gmail.com**
 
-- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/13Gkk2-yT1QDWIzQ69ZeFBDsaaWNtlJET/view?usp=drive_link)
+- 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1TmYhFlotjYGj9CAFd2TZP1xX1g-DcHaM/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 
