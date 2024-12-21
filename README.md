@@ -56,8 +56,7 @@
 
 <img padding="10px"/>
 
-<div >
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyash606&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="shreyash606" width="500px" height="auto" /></p>
+<div > 
     <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyash606&theme=dark&hide_border=false" alt="shreyash606" width="500px" height="auto" /></p>
         <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyash606&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="shreyash606" width="500px" height="auto" /></p>
   </div>
