@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Thakare</h1>
-<h3 align="center">A passionate Software Developer. Graduate Student at University of Texas at Arlington</h3>
+<h3 align="center">Using Technology to solve problems and make an impact. Graduate Student at University of Texas at Arlington</h3>
 
 
 - 📫 Reach out to me - **shreyashthakrey606@gmail.com**
