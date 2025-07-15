@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about leveraging technology to solve real-world problems and create meaningful impact. Graduate Student at University of Texas at Arlington</h3>
 
 
-- 📫 Reach out to me - **shreyashthakrey606@gmail.com**
+- 📫 Reach out to me - **shreyashthakare1093@gmail.com**
 
 - 📄 Know about my experiences - [Resume](https://drive.google.com/file/d/1G0c2DZuBx5jPffH--WmVzrbWDAY9ucET/view?usp=sharing)
 
